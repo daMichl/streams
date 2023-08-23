@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,Adult Swim East (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:0,Adult Swim West (720p)
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:0,Cartoon Network East TVE Feed (720p) [Geo-Blocked] [Not 24/7]
+https://turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,Cartoon Network West TVE Feed (720p) [Geo-Blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
